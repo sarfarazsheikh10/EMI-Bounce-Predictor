@@ -1,0 +1,97 @@
+body {
+    background: #192841	;
+    margin-top: 50px;
+    margin-left: 100px;
+    }
+
+h1{
+    color: #d6eeeb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upload {
+    padding: 20px;
+    height: 200px;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #528AAE;
+    border-radius: 10px;
+}  
+
+.download {
+    padding: 20px;
+    height: 200px;
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid #528AAE;
+    border-radius: 10px;
+}  
+
+input[type=file] {
+    padding:20px;
+    padding-left: 50px;
+    padding-right: 30px;
+    background: #528AAE;
+    cursor:pointer;
+    border-radius: 5px; 
+}
+
+input[type=submit] {
+
+    margin-top:20px;
+    margin-left:90px;
+    padding:10px;
+    width: 100px; 
+    background:#528AAE; 
+    color: #ffffff;
+    font-size: 15px;
+    border:0 none;
+    cursor:pointer;
+    border-radius: 5px; 
+}
+
+/* Style buttons*/
+.btn {
+    background-color: #528AAE;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px; 
+    } 
+
+/* Table Styling */
+table {
+    margin: auto;
+    overflow-x: hidden;
+    overflow-y:scroll;
+    height:150px;
+    display: inline-block;
+    width: 40%;
+    border-collapse: collapse;
+}
+  
+th, td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 5px;
+  }
+  
+tr{
+    background-color: #ffffff;
+}
+  
+th {
+    background-color: #004953;
+    color: white;
+}
