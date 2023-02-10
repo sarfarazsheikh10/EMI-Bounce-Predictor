@@ -4,11 +4,11 @@
 - [About](#about)
 - [Problem Statement](#problem-statement)
 - [Project Workflow](#project-workflow)
-- [Data Pre-processing](#data-pre-processing)
-- [Model Building (Training, Testing & Hyperparameter Optimization)](#model-building-(training,-testing-&-hyperparameter-optimization))
-- [Problem Statement](#Problem-Statement)
-- [Model Evaluation](#Project-Workflow)
-- [Model Explanation using SHAP (SHapley Additive exPlanations)](#model-explanation-using-SHAP-(SHapley-Additive-exPlanations))
+- [Data Pre-Processing](#data-pre-processing)
+- [Model Building (Training, Testing & Hyperparameter Optimization)](#model-building-training-testing--hyperparameter-optimization)
+- [Problem Statement](#problem-statement)
+- [Model Evaluation](#project-workflow)
+- [Model Explanation using SHAP (SHapley Additive exPlanations)](#model-explanation-using-shap-shapley-additive-explanations)
 - [Deployment](#deployment)
 
 
@@ -19,37 +19,37 @@
 
 ## Problem Statement
 
-<img src="data/images/Slide2.png">
+<img src="data/images/Slide2.PNG">
 
 ## Project Workflow
 
-<img src="data/images/Slide3.png">
+<img src="data/images/Slide3.PNG">
 
-## Data Pre-processing
+## Data Pre-Processing
 
-<img src="data/images/Slide4.png">
+<img src="data/images/Slide4.PNG">
 
 ## Model Building (Training, Testing & Hyperparameter Optimization)
 
-<img src="data/images/Slide5.png">
+<img src="data/images/Slide5.PNG">
 
 ## Model Evaluation
 
-<img src="data/images/Slide6.png">
+<img src="data/images/Slide6.PNG">
 
 ## Model Explanation using SHAP (SHapley Additive exPlanations)
 
-<img src="data/images/Slide7.png">
+<img src="data/images/Slide7.PNG">
 
-<img src="data/images/Slide8.png">
+<img src="data/images/Slide8.PNG">
 
-<img src="data/images/Slide9.png">
+<img src="data/images/Slide9.PNG">
 
-<img src="data/images/Slide10.png">
+<img src="data/images/Slide10.PNG">
 
 ## Deployment
 
-<img src="data/images/Slide11.png">
+<img src="data/images/Slide11.PNG">
 
 
 
