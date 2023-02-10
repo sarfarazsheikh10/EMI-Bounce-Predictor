@@ -6,7 +6,6 @@
 - [Project Workflow](#project-workflow)
 - [Data Pre-Processing](#data-pre-processing)
 - [Model Building (Training, Testing & Hyperparameter Optimization)](#model-building-training-testing--hyperparameter-optimization)
-- [Problem Statement](#problem-statement)
 - [Model Evaluation](#project-workflow)
 - [Model Explanation using SHAP (SHapley Additive exPlanations)](#model-explanation-using-shap-shapley-additive-explanations)
 - [Deployment](#deployment)
